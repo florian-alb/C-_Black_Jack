@@ -1,0 +1,46 @@
+# Ignore Visual Studio files
+.vscode/
+.vs/
+.idea/
+*.suo
+*.user
+*.sln.iml
+
+# Ignore build output and other generated files
+bin/
+obj/
+*.dll
+*.exe
+
+# Ignore NuGet packages
+packages/
+
+# Ignore user-specific files
+*.userprefs
+
+# Ignore logs and other temporary files
+*.log
+*.log.*
+*.swp
+
+# Ignore macOS-specific files
+.DS_Store
+
+# Ignore .NET Core and Visual Studio Code folders
+.vscode/
+.vscode/
+
+# Ignore user-specific files and settings
+*.suo
+*.user
+*.userprefs
+
+# Ignore ReSharper and Rider files
+_ReSharper/
+.idea/
+
+# Ignore Visual Studio and Rider solution files
+*.suo
+*.user
+*.userprefs
+*.sln.iml
